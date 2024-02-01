@@ -1,2 +1,6 @@
 # Robotic-Wrist-for-Speech-to-Sign-Conversion
-We have developed a robotic wrist which can convert the speech into sign language and show  gestures with text being an intermediate stage and for this we have used speech recognition  model and raspberry pi 
+We have developed a robotic wrist that can convert speech into sign language and show  gestures with text being an intermediate stage and for this, we have used a speech recognition  model and Raspberry Pi 
+
+In India, these days we can see a lot of people who cannot speak and hear though they want to hear what people talk about and want to express their thoughts. In the modern world, we have so many technologies, like hearing aids, and amplified phones, that can help these kinds of people but usually, they will be of prohibitive cost which cannot be afforded by middle- and lower-class people in India.
+The primary causes of deafness in adults are Neonatal Septicemia, prematurity, low birth weight, consanguinity, and birth asphyxia in infants, among others. The primary causes of dumbness in humans are physical problems with the lips, palate, or other parts of the mouth that may be malformed, or Ral-motor dysfunction, which is a problem with the development of the particular region of the brain that controls speech and communication.
+As a result, we created this project, which is both low-cost and capable of demonstrating sign language, to address these issues.
